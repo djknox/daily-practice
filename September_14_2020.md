@@ -3,7 +3,7 @@
 ---
 
 
-# [What's New In Laravel 8](https://laracasts.com/series/whats-new-in-laravel-8){:target="_blank"}  
+# [What's New In Laravel 8](https://laracasts.com/series/whats-new-in-laravel-8)  
 
 
 

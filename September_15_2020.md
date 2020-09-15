@@ -3,7 +3,7 @@
 ---
 
 
-# [Laravel Explained](https://laracasts.com/series/laravel-explained){:target="_blank"}  
+# [Laravel Explained](https://laracasts.com/series/laravel-explained)  
 
 
 ### Explain How a Facade Works Under the Hood
