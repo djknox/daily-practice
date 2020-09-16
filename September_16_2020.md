@@ -7,7 +7,7 @@
 
 
 ### Explain PHP Generators
-A generator allows circumenventing memory limit concerns by iterating over data without first building up a large array in memory.  
+A generator allows circumventing memory limit concerns by iterating over data without first building up a large array in memory.  
 
 Main use-case is when dealing with very large datasets that would normally exceed data limits.  
 
