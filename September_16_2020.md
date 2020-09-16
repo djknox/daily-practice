@@ -59,19 +59,3 @@ Overview:
 2. application is created and kernel is resolved
 3. kernel handles the request and prepares the response
 4. response is sent to user
-
-
-
-### Explain How the View Factory Works
-
-
-
-### Explain How to Group Records By Relative Dates
-
-
-
-### Explain Laravel Macros
-
-
-
-### Explain How to Limit Downloads Per User
