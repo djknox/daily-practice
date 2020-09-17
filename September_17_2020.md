@@ -44,15 +44,3 @@ function view($view = null, $data = [], $mergeData = [])
 `BladeCompiler` is defined in `Illuminate/View/Compilers/BladeCompiler.php`
 - loads and compiles the blade file
 - caches compiled view in `storage/framework/views` directory
-
-
-
-### Explain How to Group Records By Relative Dates
-
-
-
-### Explain Laravel Macros
-
-
-
-### Explain How to Limit Downloads Per User
