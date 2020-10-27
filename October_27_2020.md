@@ -56,7 +56,7 @@ Route::get('/statuses', function () {
    * `npm install moment`
 
 
-Alternatively, could wrap the API call in a `Status` class method
+Alternatively, could wrap the API call in a `Status` class method  
 `/models/Status.js`
 ```
 class Status {
