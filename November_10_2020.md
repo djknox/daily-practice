@@ -37,7 +37,7 @@ Example of `PortalVue`:
 
 
 
-## [Vue Portal Use Case #2](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/37)
+## [Vue Portal Use Case #2](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/38)
 
 Notes on `PortalVue`:
 - by default, the `<portal-target>` will be wrapped in a `<div class="vue-portal-target">` - this can be removed by adding the `slim` attribute to `<portal-target>`  
